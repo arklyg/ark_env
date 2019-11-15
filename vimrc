@@ -132,3 +132,5 @@ if exists("+showtabline")
 endif
 
 au BufRead,BufNewFile *.vue set filetype=html
+
+nnoremap & :let @/='\<<C-R>=expand("<cword>")<CR>\>'<CR>:set hls<CR>
