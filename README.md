@@ -18,4 +18,4 @@ Some features are custom practices of my own.
 ## How to install
 *  Download: run ```wget github.com/gabrielyaguang/gabriel_env/archive/master.zip && unzip master.zip```
 *  Deploy: run ```master/deploy.sh```, enjoy!
-*  PS: Don't worry, your old configuration files have been renamed to *.bak at the original dir, which is for any needs in case.
+*  PS: don't worry, your old configuration files have been renamed to *.bak at the original dir, for any needs in case.
