@@ -1,10 +1,10 @@
 [user]
-	name = l_yaguang
-	email = liyaguang@houduan.online
+    name = l_yaguang
+    email = liyaguang@houduan.online
 
 [alias]
-	st = status
-	ci = commit -a --no-verify
-	pu = push origin master
-	di = diff
+    st = status
+    ci = commit -a --no-verify
+    pu = push origin master
+    di = diff
     co = checkout
