@@ -105,7 +105,7 @@ if exists("+showtabline")
             let s .= ' '
             let s .= '|'. i . ')'
             let s .= ' %*'
-            let s .= (i == t ? '%#TabLineSel#' : '%#TabLine#')
+            let s .= (i == t ? '%#TabLine#' : '%#TabLineSel#')
             let file = bufname(buflist[winnr - 1])
             let file = fnamemodify(file, ':p:t')
             if file == ''
