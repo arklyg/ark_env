@@ -1,12 +1,12 @@
 #!/bin/bash
 
-rm -rf ~/.vimrc
-ln -s `pwd`/vimrc ~/.vimrc
+mv ~/.vimrc ~/.vimrc.bak
+cp vimrc ~/.vimrc
 
-rm -rf ~/.screenrc
-ln -s `pwd`/screenrc ~/.screenrc
+mv ~/.screenrc ~/.screenrc.bak
+cp screenrc ~/.screenrc
 
-rm -rf ~/.gitconfig
-ln -s `pwd`/gitconfig ~/.gitconfig
+mv ~/.gitconfig ~/.gitconfig.bak
+cp gitconfig ~/.gitconfig
 
 echo "Done."
