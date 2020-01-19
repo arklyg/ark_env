@@ -17,5 +17,5 @@ Some features are custom practices of my own.
 
 ## How to install
 *  Download: run ```wget github.com/gabrielyaguang/gabriel_env/archive/master.zip && unzip master.zip```
-*  Deploy: run ```chmod a+x gabriel_env-master/deploy.sh && gabriel_env-master/deploy.sh```, enjoy!
+*  Deploy: run ```cd gabriel_env-master && sh deploy.sh```, enjoy!
 *  PS: don't worry, your old configuration files have been renamed to *.bak at the original dir, for any needs in case.
