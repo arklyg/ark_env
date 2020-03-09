@@ -1,5 +1,5 @@
-# gabriel_env
-Gabriel's personal favorite environment configurations, and settings, etc.
+# al_env
+Ark Lee's personal favorite environment configurations, and settings, etc.
 
 ## Features
 Some features are custom practices of my own.
