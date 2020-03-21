@@ -16,6 +16,6 @@ Some features are custom practices of my own.
 *  My costomized status bar.
 
 ## How to install
-*  Download: run ```wget github.com/gabrielyaguang/gabriel_env/archive/master.zip && unzip master.zip```
-*  Deploy: run ```cd gabriel_env-master && sh deploy.sh```, enjoy!
-*  PS: don't worry, your old configuration files have been renamed to *.bak at the original dir, for any needs in case.
+*  Download: run ```wget github.com/arklyg/ark_env/archive/master.zip && unzip master.zip```
+*  Deploy: run ```cd ark_env-master && sh deploy.sh```, enjoy!
+*  PS: Your old configuration files have been renamed to *.bak at the original dir, for any needs in case.
