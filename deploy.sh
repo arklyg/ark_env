@@ -9,4 +9,7 @@ cp screenrc ~/.screenrc
 mv ~/.gitconfig ~/.gitconfig.bak
 cp gitconfig ~/.gitconfig
 
+mv ~/.gitignore ~/.gitignore.bak
+cp gitignore ~/.gitignore
+
 echo "Done."
