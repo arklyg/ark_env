@@ -8,3 +8,6 @@
     pu = push origin master
     di = diff
     co = checkout
+
+[core]
+    excludesfile = ~/.gitignore
