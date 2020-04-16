@@ -1,4 +1,4 @@
-# al_env
+# ark_env
 Ark Lee's personal favorite environment configurations, and settings, etc.
 
 ## Features
