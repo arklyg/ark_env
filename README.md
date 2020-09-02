@@ -18,4 +18,4 @@ Some features are custom practices of my own.
 ## How to install
 *  Download: run ```wget github.com/arklyg/ark_env/archive/master.zip && unzip master.zip```
 *  Deploy: run ```cd ark_env-master && sh deploy.sh```, enjoy!
-*  PS: your old configuration files have been renamed to *.bak at the original dir, for any needs in case.
+*  FYI: your old configuration files have been renamed to *.bak at the original dir, for any needs in case.
