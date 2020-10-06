@@ -1,5 +1,5 @@
 # ark_env
-Ark Lee's personal favorite environment configurations and settings.
+Ark LYG's personal favorite environment configurations and settings.
 
 ## Features
 Some features are custom practices of my own.
